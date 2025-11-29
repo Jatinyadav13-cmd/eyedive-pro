@@ -57,9 +57,7 @@ screen-controller-eyes/
 ### **1. Clone the repository**
 
 
-git clone https://github.com/yourusername/screen-controller-eyes.git
-
-cd screen-controller-eyes
+git clone https://github.com/yourusername/screen-controller-eyes.git cd screen-controller-eyes
 
 ### **2. Install dependencies**
 pip install -r requirements.txt
